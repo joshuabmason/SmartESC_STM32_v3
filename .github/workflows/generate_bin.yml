@@ -44,4 +44,3 @@ jobs:
       with:
         path: ${{ github.workspace }}/tools/zip_output
         name: M365_v3_build_${{ github.run_number }}
-        retention-days: 5
